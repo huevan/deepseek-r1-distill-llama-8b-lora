@@ -21,7 +21,7 @@ Follow these steps to get started quickly:
 
    #if you have trouble in downloading models from hf-mirror, you can use the modelscope.
 
-    ```bash
+   ```bash
    modelscope download --model deepseek-ai/DeepSeek-R1-Distill-Llama-8B --local_dir ./deepseek-r1-distill-llama-8b
 
 
